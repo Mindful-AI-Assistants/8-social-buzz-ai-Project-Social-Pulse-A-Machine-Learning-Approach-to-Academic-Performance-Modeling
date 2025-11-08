@@ -7,7 +7,7 @@
 
 <br>
 
-# <p align="center"> 8- [Social Buzz AI]() - Extension project
+# <p align="center"> 8- [Social Buzz AI]() - Extension Project
 
 
 
@@ -140,16 +140,11 @@
 <br><br
 
      
-## 21-  [Our Crew:]()
+## XXX-  [Our Crew:]()
 
 
-- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
 
 - 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
-
-- 👨🏽‍🚀  **José Augusto de Souza Oliveira**  - [email]()
-
-- 🧑🏼‍🚀 **Luan Fabiano**  - [email]()
 
 - 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
   
