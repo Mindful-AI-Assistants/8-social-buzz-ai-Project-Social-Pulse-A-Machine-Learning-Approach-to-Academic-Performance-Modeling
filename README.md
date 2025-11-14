@@ -7,7 +7,8 @@
 
 <br>
 
-# <p align="center"> 8- [Social Buzz AI - Extension Project]() - Academic Performance Analytics
+# <p align="center"> 8- [Social Buzz AI - Extension Project]() - [Academic Performance Analytics]()
+### ***Exploratory Analysis and Academic Performance Modeling***
 
 
 
