@@ -42,7 +42,7 @@
 
 
 # <p align="center"> 8- [Social Buzz AI - Extension Project]() - [Academic Performance Analytics]()
-### <p align="center">  ***Exploratory Analysis and Academic Performance Modeling***
+### <p align="center">  **Exploratory Analysis and Academic Performance Modeling**
 
 
 
