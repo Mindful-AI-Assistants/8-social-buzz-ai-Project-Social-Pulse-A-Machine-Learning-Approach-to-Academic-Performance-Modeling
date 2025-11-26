@@ -174,31 +174,27 @@ The result is a complete educational analytics case study.
 <br><br
 
      
-## XXX-  [Our Crew:]()
 
-
-
-- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
-
-- 👨🏽‍🚀 **Pedro Barrenco**  - [email]()
-  
-- 🧑🏼‍🚀 **Pedro Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
-
-
-
-<br><br>
-
-
-<!-- ========================== [Bibliographr ====================  -->
-
-
-
-<br><br>
-
-
-## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+##  [Our Crew:]()
 
 <br>
+
+
+- 👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://github.com/FabianaCampanari) 
+
+- 👨🏽‍🚀 [**Pedro Barrenco**](https://github.com/Pgbarenco)
+  
+- 🧑🏼‍🚀 [**Pedro Vyctor**](https://github.com/Pgbarenco)
+
+
+
+<br><br>
+
+
+# 💌 [Let the data flow... Ping Me!]()
+
+
+<br> 
 
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
@@ -222,9 +218,12 @@ The result is a complete educational analytics case study.
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
   
 
-  
+
 #
- 
-##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
+
+##### <p align="center"> Copyright 2026 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/7ac78ed36a9256cbdc0941dbd44fd13b545bc2dd/LICENSE)
+
+
+
 
 
