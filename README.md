@@ -83,18 +83,18 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 ## Table of Contents
 
-[Overview](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#overview)
-[Objectives](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#objectives)
-[Dataset](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#dataset)
-[Methodology](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#methodology)
-[Exploratory Data Analysis](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#exploratory-data-analysis)
-[Feature Engineering](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#feature-engineering)
-[Predictive Modeling](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#predictive-modeling)
-[Results](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#results)
-[Conclusion](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#conclusion)
-[How to Run](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#how-to-run)
-[English Summary](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#english-summary)
-[Hashtags](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#hashtags)
+-[Overview](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#overview)
+-[Objectives](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#objectives)
+-[Dataset](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#dataset)
+-[Methodology](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#methodology)
+-[Exploratory Data Analysis](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#exploratory-data-analysis)
+-[Feature Engineering](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#feature-engineering)
+-[Predictive Modeling](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#predictive-modeling)
+-[Results](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#results)
+-[Conclusion](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#conclusion)
+-[How to Run](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#how-to-run)
+-[English Summary](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#english-summary)
+-[Hashtags](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#hashtags)
 
 
 <br><br>
