@@ -96,10 +96,11 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 <!--End-->
 
-#  
+<br><br>
 
+#
 
-<br><br><br>
+<br><br>
 
 
 > [!IMPORTANT]
@@ -112,7 +113,9 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 >
 
 
-<br><br><br>
+<br><br><br><br>
+
+
 
 
 ## Table of Contents
