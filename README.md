@@ -104,9 +104,9 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 > [!IMPORTANT]
 >
-> • This repository: [**8-Extension Project – Academic Performance Analytics**]() — is part of the overall structure defined in the main hub and follows the same standards, organization, and documentation patterns.
+> • This repository: [**8- Social Buss: Extension Project: Social Pulse - A Machine Learning Approach to Academic Performance Modeling and Analytics**]() — is part of the overall structure defined in the main hub and follows the same standards, organization, and documentation patterns.
 >
-> • **TheMain Repository** ](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main): <br>
+> • [**TheMain Repository**](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main): <br>
 >   `1-social-buzz-ai-main` serves as the central hub for this discipline, consolidating all project files, documentation, and links to the related sub-repositories.
 >  <br>
 >
