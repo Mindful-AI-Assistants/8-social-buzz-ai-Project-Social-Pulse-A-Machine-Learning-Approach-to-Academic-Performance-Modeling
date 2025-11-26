@@ -75,7 +75,8 @@
 
 
 
-## 🎓 [Academic Performance Analytics]()
+## 👩🏻‍🎓 [Academic Performance Analytics]()
+
 
 <br>
 
@@ -88,8 +89,6 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 
 <br><br>
-
-## Table of Contents
 
 ## Table of Contents
 
