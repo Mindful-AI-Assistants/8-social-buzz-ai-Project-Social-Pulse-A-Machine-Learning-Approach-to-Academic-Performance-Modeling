@@ -18,7 +18,7 @@
 <br><br>
 
 
-> [!IMPORTANT]
+> [!NOTE]
 >
 > ⚠️ Heads Up 
 >
