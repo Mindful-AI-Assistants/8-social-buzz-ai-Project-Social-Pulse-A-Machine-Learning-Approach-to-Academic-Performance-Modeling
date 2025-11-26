@@ -10,6 +10,7 @@
 
 [**Course:**]() Humanistic AI & Data Science (4th Semester)  
 [**Institution:**]() PUC-SP  
+**Professor:**  [✨ ]()
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)
 
 <!--Confidentiality Statement-->
@@ -108,7 +109,7 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 <br><br>
 
-Overview
+## [Overview]()
 
 
 This repository contains a structured analysis of student academic performance.
