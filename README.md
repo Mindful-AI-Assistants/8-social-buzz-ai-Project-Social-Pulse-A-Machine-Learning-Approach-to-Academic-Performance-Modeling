@@ -40,45 +40,10 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 ✨ **Professor:** [Erick Bacconi](https://www.linkedin.com/in/eric-bacconi-423137/)  
 ✨ **Professor:** [Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)
 
-<!--Confidentiality Statement-->
 
 
-<br><br>
-
-
-> [!NOTE]
->
-> ⚠️ Heads Up 
->
-> * Projects and deliverables may be made [publicly available]() whenever possible.
->
-> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
->
-> *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
->
-> * [**Confidential information**]() from this repository remains private in [private repositories]().
->
->
-
-#  
 
 <br><br><br>
-
-<!--End-->
-
-
-> [!IMPORTANT]
->
-> • This repository: [**8-Extension Project – Academic Performance Analytics**]() — is part of the overall structure defined in the main hub and follows the same standards, organization, and documentation patterns.
->
-> • **TheMain Repository** ](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main): <br>
->   `1-social-buzz-ai-main` serves as the central hub for this discipline, consolidating all project files, documentation, and links to the related sub-repositories.
->  <br>
->
-
-
-
-<br><br>
 
 
 <p align="center">
@@ -103,9 +68,46 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 
+
+<br><br>
+
+
+<!--Confidentiality Statement-->
+
+
+> [!NOTE]
+>
+> ⚠️ Heads Up 
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+>
+> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+>
+> *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+>
+> * [**Confidential information**]() from this repository remains private in [private repositories]().
+>
+>
+
+<!--End-->
+
+#  
+
+
 <br><br><br>
 
 
+> [!IMPORTANT]
+>
+> • This repository: [**8-Extension Project – Academic Performance Analytics**]() — is part of the overall structure defined in the main hub and follows the same standards, organization, and documentation patterns.
+>
+> • **TheMain Repository** ](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main): <br>
+>   `1-social-buzz-ai-main` serves as the central hub for this discipline, consolidating all project files, documentation, and links to the related sub-repositories.
+>  <br>
+>
+
+
+<br><br><br>
 
 
 ## Table of Contents
@@ -125,6 +127,7 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 
 <br><br>
+
 
 ## [Overview]()
 
