@@ -356,13 +356,13 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 ## [**How to Use This Repository**]()
 
 
-Clone the repository
+ [*]() Clone the repository
 
-Install dependencies (requirements.txt)
+ [*]() Install dependencies (requirements.txt)
 
-Open the main notebook academic_performance_pipeline_AI-ML.ipynb
+ [*]() Open the main notebook academic_performance_pipeline_AI-ML.ipynb
 
-Explore data preparation, modeling, and insights step by step
+ [*]() Explore data preparation, modeling, and insights step by step
 
 
 
@@ -370,55 +370,63 @@ Explore data preparation, modeling, and insights step by step
 
 
 
-## **Tech Stack**
+## [**Tech Stack**()
 
 This project was developed using a modern and reliable Data Science stack:
 
-<br><br>
+<br>
 
-## **Languages & Core Tools**
+### [**Languages & Core Tools**()
 
-* Python 3.10+
-* Jupyter Notebook
+ [*]() Python 3.10+
 
-<br><br>
-
-**Data Processing & Analysis**
-
-* pandas
-* numpy
-* scipy
+ [*]() Jupyter Notebook
 
 
-<br><br>
+<br>
+
+### [**Data Processing & Analysis**()
+
+ [*]()  pandas
+
+ [*]()  numpy
+
+ [*]()  scipy
 
 
-**Visualization**
+<br>
 
-* matplotlib
-* seaborn
+### [**Visualization**]() 
 
+ [*]()  matplotlib
 
-<br><br>
-
-
-**Machine Learning**
-
-* scikit-learn
-* imbalanced-learn
-* SHAP (model explainability)
+ [*]()  seaborn
 
 
-<br><br>
-
-**Project Structure & Workflow**
-
-* Modular Python scripts
-* Jupyter-based experimentation
-* Reproducible data science pipeline
+<br>
 
 
-<br><br>
+### [**Machine Learning**]() 
+
+ [*]()  scikit-learn
+
+ [*]() imbalanced-learn
+
+ [*]() SHAP (model explainability)
+
+
+<br>
+
+### [**Project Structure & Workflow**]() 
+
+ [*]() Modular Python scripts
+
+ [*]()  Jupyter-based experimentation
+
+ [*]()  Reproducible data science pipeline
+
+
+<br>
 
 
 ## **Installation**
