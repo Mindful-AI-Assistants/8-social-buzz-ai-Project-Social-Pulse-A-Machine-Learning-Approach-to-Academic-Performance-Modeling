@@ -14,14 +14,13 @@
 
 
 
-<br><br>
+<br><br>><br>
 
 
 
 This project analyzes an anonymized dataset of student grades to uncover insights into academic performance, identify patterns, and explore the viability of predictive models for educational analytics.
 
 It was developed as part of the Social Media Marketing course at PUC-SP, applying principles of data storytelling, analytical thinking, and structured reporting.
-
 
 
 
