@@ -279,7 +279,7 @@ These insights help build data-driven strategies for intervention.
 <br><br>
 
 
-## **Bilingual Summary Table (PT → EN Reference)**
+## **Bilingual Summary Table (PT → EN)**
 
 <br>
 
