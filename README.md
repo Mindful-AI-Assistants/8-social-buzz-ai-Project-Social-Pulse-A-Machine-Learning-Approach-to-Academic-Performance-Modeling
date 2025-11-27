@@ -358,15 +358,15 @@ The original dataset presented several structural issues:
 <br>
 
 
-| 🇧🇷 **Português** | 🇬🇧 **English** |
+| 🇧🇷 [**Português**]() | 🇬🇧 **English** |
 |------------------|-----------------|
-| O conjunto de dados inicial apresentava problemas de metadados, múltiplos cabeçalhos e colunas duplicadas, corrigidos na limpeza. | The initial dataset contained metadata issues, multiple headers, and duplicate columns, all resolved during cleaning. |
-| A análise exploratória revelou alta taxa de evasão, sendo “Sem retorno do estudante” o motivo mais comum. | Exploratory analysis showed a high dropout rate, with “No response from the student” as the most common reason. |
-| O modelo Random Forest obteve: 94,50% de acurácia; 87,00% de precisão; 94,50% de recall; 90,60% de F1-score. | The Random Forest model achieved: 94.50% accuracy; 87.00% precision; 94.50% recall; 90.60% F1-score. |
-| Fatores-chave incluíram: motivo da ausência, número de reprovações, status no semestre anterior e no atual. | Key factors included: reason for non-attendance, number of failures, previous-semester status, and current-semester status. |
-| 186 estudantes foram previstos como estando em risco de evasão. | 186 students were predicted to be at risk of dropout. |
-| Os fatores de risco ajudam a orientar intervenções e programas de apoio. | The risk factors help guide targeted interventions and support programs. |
-| O modelo pode ser integrado a sistemas institucionais, garantindo conformidade com a LGPD. | The model can be integrated into institutional systems while ensuring LGPD compliance. |
+| O conjunto de dados inicial apresentava problemas de metadados, múltiplos cabeçalhos e colunas duplicadas, corrigidos na limpeza. | [The initial dataset contained metadata issues, multiple headers, and duplicate columns, all resolved during cleaning.]() |
+| A análise exploratória revelou alta taxa de evasão, sendo “Sem retorno do estudante” o motivo mais comum. | [Exploratory analysis showed a high dropout rate, with “No response from the student” as the most common reason.]() |
+| O modelo Random Forest obteve: 94,50% de acurácia; 87,00% de precisão; 94,50% de recall; 90,60% de F1-score. | [The Random Forest model achieved: 94.50% accuracy; 87.00% precision; 94.50% recall; 90.60% F1-score.]() |
+| Fatores-chave incluíram: motivo da ausência, número de reprovações, status no semestre anterior e no atual. | [Key factors included: reason for non-attendance, number of failures, previous-semester status, and current-semester status.]() |
+| 186 estudantes foram previstos como estando em risco de evasão. | [186 students were predicted to be at risk of dropout.]() |
+| Os fatores de risco ajudam a orientar intervenções e programas de apoio. | [The risk factors help guide targeted interventions and support programs.]() |
+| O modelo pode ser integrado a sistemas institucionais, garantindo conformidade com a LGPD. | [The model can be integrated into institutional systems while ensuring LGPD compliance.]() |
 
 
 
@@ -378,29 +378,31 @@ The original dataset presented several structural issues:
 
 <br>
 
-## **Data Analysis — Key Findings**
+### [**Data Analysis — Key Findings**]()
 
-* The initial dataset contained metadata issues, multiple headers, and duplicate columns, all resolved during the cleaning process.
+<br>
 
-* Exploratory analysis showed a high dropout risk, with “No response from the student” as the most common reason for non-attendance.
+ [*]() The initial dataset contained metadata issues, multiple headers, and duplicate columns, all resolved during the cleaning process.
 
-* The Random Forest model achieved strong performance:
+ [*]()Exploratory analysis showed a high dropout risk, with “No response from the student” as the most common reason for non-attendance.
+
+ [*]() The Random Forest model achieved strong performance:
 
 
 #
 
 
-* **Accuracy:** 94.50%
+ [*]() **Accuracy:** 94.50%
 
-* **Precision:** 87.00%
+ [*]() **Precision:** 87.00%
 
-* **Recall:** 94.50%
+ [*]() **Recall:** 94.50%
 
-* **F1-Score:** 90.60%
+ [*]() **F1-Score:** 90.60%
 
-* Key risk factors included: reason for non-attendance, number of failures, previous-semester status, and current-semester status.
+ [*]() Key risk factors included: reason for non-attendance, number of failures, previous-semester status, and current-semester status.
 
-* A total of **186 students** were predicted to be at risk of dropout.
+ [*]() A total of **186 students** were predicted to be at risk of dropout.
 
 
 <br><br>
