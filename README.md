@@ -372,11 +372,13 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 
 ## [**Tech Stack**]()
 
-This project was developed using a modern and reliable Data Science stack:
+
+### ***This project was developed using a modern and reliable Data Science stack:***
 
 <br>
 
-### [**Languages & Core Tools**()
+
+### [**Languages & Core Tools**]()
 
  [*]() Python 3.10+
 
@@ -431,12 +433,14 @@ This project was developed using a modern and reliable Data Science stack:
 
 ## [**Installation**]() 
 
-Follow the steps below to set up the environment and reproduce the analysis.
+<br>
+
+### ***Follow the steps below to set up the environment and reproduce the analysis.***
 
 <br>
 
 
-### [**1. Clone the repository**() 
+### [**1. Clone the repository**]() 
 
 <br>
 
@@ -498,50 +502,56 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 
 <br>
 
-Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and SHAP analysis.
+
+> Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and SHAP analysis.
 
 
 <br><br>
 
 
-## **Roadmap**
+## [**Roadmap**]() 
+
+
+### ***Below is the planned evolution of the project, combining academic rigor with practical ML expansion.***
+
+
+<br><br>
+
+
+### [**Phase 1 — Completed**]() 
 
 <br>
 
-Below is the planned evolution of the project, combining academic rigor with practical ML expansion.
+ [*]() Data cleaning and dataset restructuring
+
+ [*]()* Exploratory Data Analysis
+
+ [*]() Feature engineering
+
+ [*]() Random Forest modeling
+
+ [*]() Model evaluation
+
+ [*]() SHAP explainability
+
+ [*]() Key insights and outcome report
 
 
 <br><br>
 
 
-### **Phase 1 — Completed**
+### [**Phase 2 — In Progress**]() 
+
 
 <br>
 
-* Data cleaning and dataset restructuring
+ [*]() Refined notebook documentation
 
-* Exploratory Data Analysis
+ [*]() README optimization
 
-* Feature engineering
+ [*]()* Improvements in visualization design
 
-* Random Forest modeling
-
-* Model evaluation
-
-* SHAP explainability
-
-* Key insights and outcome report
-
-
-<br><br>
-
-
-### **Phase 2 — In Progress**
-
-* Refined notebook documentation
-* README optimization
-* Improvements in visualization design
-* Enhanced sectioning for portfolio presentation
+ [*]() Enhanced sectioning for portfolio presentation
 
 
 <br><br>
