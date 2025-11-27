@@ -515,12 +515,11 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 ### ***Below is the planned evolution of the project, combining academic rigor with practical ML expansion.***
 
 
-<br><br>
+<br>
 
 
 ### [**Phase 1 — Completed**]() 
 
-<br>
 
  [*]() Data cleaning and dataset restructuring
 
@@ -537,13 +536,11 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
  [*]() Key insights and outcome report
 
 
-<br><br>
+<br>
 
 
 ### [**Phase 2 — In Progress**]() 
 
-
-<br>
 
  [*]() Refined notebook documentation
 
@@ -554,7 +551,8 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
  [*]() Enhanced sectioning for portfolio presentation
 
 
-<br><br>
+<br>
+
 
 ### [**Phase 3 — Planned**]()
 
@@ -568,9 +566,9 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 [*]() Cross-validation and stability assessment
 
 
-<br><br>
+<br>
 
-### [Deployment prototype:]()
+### [**Deployment prototype:**]()
 
 
 [*]() Streamlit dashboard or
@@ -578,9 +576,9 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 [*]() FastAPI endpoint for real-time predictions
 
 
-<br><br>
+<br>
 
-### [**Automated pipeline using:]()
+### [**Automated pipeline using**]()
 
 [*]( Prefect or Airflow]()
 
@@ -589,10 +587,10 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 [*]() Improved explainability (partial dependency plots, feature interactions)
 
 
-<br><br>
+<br>
 
 
-## [**Contributing*]()
+## [**Contributing**]()
 
 
 <br><br>
