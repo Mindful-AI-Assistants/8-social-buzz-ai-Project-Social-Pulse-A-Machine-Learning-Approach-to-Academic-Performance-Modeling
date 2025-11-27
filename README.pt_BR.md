@@ -102,6 +102,171 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 
 
+Claro, Fabi! Aqui está uma **versão refinada, elegante e visualmente marcante** para README — perfeita para GitHub/portfólio e mantendo um ar profissional + moderno.
+
+Abaixo segue o modelo completo.
+Se quiser, depois personalizo com imagens, badges, GIFs e ilustrações.
+
+---
+
+# 🌟 Social Pulse — Academic Performance Modeling & Analytics
+
+### *Machine Learning aplicado para análise e predição de desempenho acadêmico*
+
+📊 **Social Pulse** é um pipeline completo de ciência de dados, criado para explorar, modelar e prever o desempenho de estudantes com base em registros acadêmicos anonimizados.
+O projeto cobre todas as etapas: desde limpeza de dados até modelagem preditiva e análise interpretável.
+
+---
+
+## 🧠 Tecnologias Utilizadas
+
+* **Python 3.10+**
+* **Pandas, NumPy**
+* **Scikit-Learn**
+* **Matplotlib / Seaborn**
+* **Jupyter Notebook**
+
+---
+
+## 🚀 Objetivos do Projeto
+
+* Analisar padrões de desempenho estudantil
+* Criar modelos de predição (Regressão, Classificação)
+* Identificar fatores que impactam a performance
+* Explorar visualmente tendências e correlações
+* Fornecer insights acionáveis para tomada de decisão
+
+---
+
+## 🧩 Estrutura do Pipeline
+
+### 1. **Carregamento e Exploração Inicial**
+
+```python
+df = pd.read_csv("student_data.csv")
+df.head()
+df.describe()
+```
+
+✔️ Análise de coluna
+✔️ Identificação de tipos e valores faltantes
+✔️ Verificação inicial de outliers
+
+---
+
+### 2. **Limpeza e Pré-processamento**
+
+* Remoção de duplicatas
+* Tratamento de nulos com imputação
+* Normalização/Padronização
+* Codificação de variáveis categóricas
+
+```python
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+```
+
+---
+
+### 3. **Feature Engineering**
+
+* Criação de novas variáveis derivadas
+* Combinação de atributos relevantes
+* Seleção de features por importância
+
+```python
+df["study_efficiency"] = df["study_hours"] / (df["absences"] + 1)
+```
+
+---
+
+### 4. **Modelagem**
+
+Modelos aplicados:
+
+* Regressão Linear
+* Random Forest
+* Gradient Boosting
+
+```python
+from sklearn.ensemble import RandomForestRegressor
+```
+
+Avaliação:
+
+* MAE
+* RMSE
+* R²
+
+---
+
+### 5. **Interpretação e Visualização**
+
+* Curvas de erro
+* Feature importance
+* Gráficos de correlação
+
+```python
+plt.figure(figsize=(10,5))
+sns.heatmap(df.corr(), annot=False)
+```
+
+---
+
+## 📁 Estrutura do Repositório
+
+```
+📦 social-pulse
+ ┣ 📂 data
+ ┣ 📂 notebooks
+ ┣ 📂 models
+ ┣ 📄 academic_performance_pipeline.ipynb
+ ┣ 📄 README.md
+ ┗ 📄 requirements.txt
+```
+
+---
+
+## ⚡️ Principais Insights (exemplo)
+
+*  Horas de estudo tiveram maior impacto positivo
+*  Ausências aumentam drasticamente o erro preditivo
+*  A combinação *projeto + participação* foi excelente preditor
+
+---
+
+## 🛠️ Como Rodar o Projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/SEU_USUARIO/social-pulse.git
+cd social-pulse
+```
+
+### 2. Instale as dependências
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Abra o notebook
+
+```bash
+jupyter notebook academic_performance_pipeline.ipynb
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
