@@ -158,18 +158,28 @@ Although initially created within a Social Media Marketing course, the project l
  
  [*]() Insight communication and structured storytelling
 
- <br> 
 
-> The result is a complete case study in Educational Analytics, focusing on detecting and understanding student dropout risk.
+ 
+ <br><br>
+
+
+> [!TIP]
+>
+> *  The result is a complete case study in Educational Analytics, focusing on detecting and understanding student dropout risk. <br>
+>
+>
 
 
 <br><br>
-
-
-
+ 
+ 
 ## [**Project Pipeline**]()
 
+<br>
+
 ### [**1. Data Cleaning & Preparation**]()
+
+<br>
 
 The original dataset presented several structural issues:
 
@@ -188,8 +198,8 @@ The original dataset presented several structural issues:
 
 > [!TIP]
 >
-> * All issues were systematically corrected, producing a clean and reliable dataset for analysis and modeling.
->  <br>
+> * All issues were systematically corrected, producing a clean and reliable dataset for analysis and modeling.<br>
+>
 >
 
 
