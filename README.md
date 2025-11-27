@@ -130,118 +130,34 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 <br><br>
 
 
-## [Overview]()
+
+# **Social Pulse — Academic Performance Modeling & Analytics**
+
+A complete end-to-end Machine Learning pipeline designed to explore, model, and predict student academic performance using anonymized institutional records.
+This project demonstrates a full data science workflow — from raw data cleaning to predictive modeling and interpretable insights.
 
 
-This repository contains a structured analysis of student academic performance.
-
-**Social Pulse — Academic Performance Modeling & Analytics**
-A complete Machine Learning pipeline designed to explore, model, and predict student performance using anonymized academic records.
-
-Social Pulse was developed as an end-to-end educational project, covering every essential stage of a data science workflow — from data cleaning to predictive modeling and interpretable analysis.
+<br><br>
 
 
-]<br><br>
 
+## [**Overview**]()
 
-## **Project Scope**
-
-Although created within a Social Media Marketing course, the project uses the dataset to practice core Data Science competencies:
+This repository contains a structured analysis of student academic performance, developed as part of an educational project.
+Although initially created within a Social Media Marketing course, the project leverages the dataset to practice core Data Science and Machine Learning skills, including:
 
 * Data cleaning and preparation
-  Identification and correction of structural issues such as metadata noise, repeated headers, duplicated columns, and inconsistencies.
-
 * Exploratory Data Analysis (EDA)
-  Visualization of patterns, dropout trends, and key academic variables.
-
 * Feature engineering
-  Categorical encoding, derived feature creation, and dataset optimization.
+* Predictive modeling with Random Forest
+* Model explainability using SHAP
+* Insight communication and structured storytelling
 
-* Predictive modeling using Random Forest
-  Model construction, tuning, evaluation, and performance reporting.
+The result is a complete case study in Educational Analytics, focusing on detecting and understanding student dropout risk.
 
-* Model explainability using SHAP values
-  Interpretation of the factors most strongly influencing dropout risk.
-
-* Structured storytelling and insight communication
-  Clear presentation of methodology, findings, and implications.
 
 
 <br><br>
-
-
-
-## **What You Will Find in This Repository**
-
-* A complete end-to-end machine learning workflow
-* Scripts for data cleaning, analysis, and modeling
-* Key tables, plots, and performance reports
-* Bilingual (PT/EN) interpretation of results
-* A structure designed to be portfolio-ready
-
-
-<br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
