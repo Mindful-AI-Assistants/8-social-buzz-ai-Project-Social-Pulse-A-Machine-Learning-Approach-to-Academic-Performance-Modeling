@@ -327,11 +327,20 @@ These insights help build data-driven strategies for intervention.
 <br><br>
 
 
+## [**How to Use This Repository**]()
+
+
+Clone the repository
+
+Install dependencies (requirements.txt)
+
+Open the main notebook academic_performance_pipeline_AI-ML.ipynb
+
+Explore data preparation, modeling, and insights step by step
 
 
 
-
-
+<br><br>
 
 
 
