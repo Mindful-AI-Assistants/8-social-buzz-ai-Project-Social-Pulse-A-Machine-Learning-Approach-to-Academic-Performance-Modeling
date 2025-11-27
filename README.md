@@ -549,49 +549,65 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 
  [*]() README optimization
 
- [*]()* Improvements in visualization design
+ [*]() Improvements in visualization design
 
  [*]() Enhanced sectioning for portfolio presentation
 
 
 <br><br>
 
-### **Phase 3 — Planned**
+### [**Phase 3 — Planned**]()
 
-* Hyperparameter tuning with GridSearchCV or Optuna
-* Benchmarking alternative models (XGBoost, LightGBM, Logistic Regression)
-* Cross-validation and stability assessment
-* Deployment prototype:
 
-<br>
+[*]() Hyperparameter tuning with GridSearchCV or Optuna
 
-   * Streamlit dashboard or
-  * FastAPI endpoint for real-time predictions
-* Automated pipeline using:
 
-  <br>
+[*]() Benchmarking alternative models (XGBoost, LightGBM, Logistic Regression)
 
-    * Prefect or Airflow
-  * CI/CD integration
-* Improved explainability (partial dependency plots, feature interactions)
+
+[*]() Cross-validation and stability assessment
+
+
+<br><br>
+
+### [Deployment prototype:]()
+
+
+[*]() Streamlit dashboard or
+  
+[*]() FastAPI endpoint for real-time predictions
+
+
+<br><br>
+
+### [**Automated pipeline using:]()
+
+[*]( Prefect or Airflow]()
+
+[*]() CI/CD integration
+
+[*]() Improved explainability (partial dependency plots, feature interactions)
 
 
 <br><br>
 
 
-## **Contributing**
-
-<br>
-
-👌🏻 Contributions are welcome.
-
-Please follow conventional commit practices, open issues, or submit pull requests with improvements or enhancements.
+## [**Contributing*]()
 
 
 <br><br>
 
+> [!TIP]
+>
+> 👌🏻 Contributions are welcome.<br>
+>  * Please follow conventional commit practices, open issues, or submit pull requests with improvements or enhancements.
+> <br>
+> 
 
- 
+
+<br><br><br>
+
+
 
 ##  💚 [Our Crew:]()
 
