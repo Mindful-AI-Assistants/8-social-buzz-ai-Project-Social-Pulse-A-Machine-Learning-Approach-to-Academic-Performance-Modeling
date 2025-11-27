@@ -671,7 +671,7 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 
 ### [**Automated pipeline using**]()
 
-[*]( Prefect or Airflow]()
+[*]() Prefect or Airflow]()
 
 [*]() CI/CD integration
 
