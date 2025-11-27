@@ -210,7 +210,7 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 
 <br>
 
-| [Metric]()    | [Score]()    |
+| [Metric]()    | Score   |
 | --------- | ---------- |
 | Accuracy  | [**94.50%**]() |
 | Precision | [**87.00%**]() |
@@ -226,7 +226,7 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 <br>
 
 
-### **5. Explainability & Insights**
+### [**5. Explainability & Insights**]() 
 
 SHAP values were used to identify the most influential predictors:
 
@@ -235,14 +235,14 @@ SHAP values were used to identify the most influential predictors:
 * Previous-semester academic status
 * Current-semester status
 
-These insights help build data-driven strategies for intervention.
+<br>
+
+> These insights help build data-driven strategies for intervention.
 
 
 <br><br>
 
-
-
-## **Key Findings**
+## [**Key Findings**]() 
 
 * The initial dataset contained metadata issues, redundant headers, and duplicate columns, all resolved during cleaning.
 * Exploratory analysis revealed high dropout risk, with “No response from the student” as the leading cause of absence.
@@ -255,30 +255,35 @@ These insights help build data-driven strategies for intervention.
 <br><br>
 
 
-## **Insights & Next Steps**
+## [**Insights & Next Steps**]() 
 
-* Risk factors identified by the model can guide targeted support programs and early interventions.
+ [*]() Risk factors identified by the model can guide targeted support programs and early interventions.
+
 * The predictive model can be integrated into institutional systems such as early-alert dashboards or student-support chatbots.
+
 * Future improvements may include:
 
 
 <br>
 
-  * Hyperparameter optimization
-  * Comparison with other ML models
-  * Time series modeling of academic progression
-  * Real-time prediction pipelines
+ [*]()  Hyperparameter optimization
+
+ [*]()  Comparison with other ML models
+  
+ [*]()  Time series modeling of academic progression
+ 
+ [*]()  Real-time prediction pipelines
 
 
 <br><br>
 
 
-## **Bilingual Summary Table (PT → EN)**
+## [**Bilingual Summary Table (PT → EN)**]() 
 
 <br>
 
 
-| Portuguese Summary                                                                                        | English Version                                                                                          |
+|  🇧🇷 [Portuguese Summary]()                                                                                | 🇬🇧 [English Version]()                                                                                    |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | O conjunto de dados inicial apresentava problemas estruturais, resolvidos na limpeza.                     | The initial dataset contained structural issues, resolved during cleaning.                               |
 | A análise exploratória revelou alta taxa de evasão, com “Sem retorno do estudante” como motivo principal. | Exploratory analysis revealed high dropout risk, with “No response from the student” as the main reason. |
