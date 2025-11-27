@@ -9,7 +9,8 @@
 <br>
 
 
-# <p align="center">  8- [Social Buzz AI - Extension Project]() - ***Social Pulse: A Machine Learning Approach to Academic Performance Modeling and Analytics***
+# <p align="center">  8- [Social Buzz AI - Extension Project]() 
+###  <p align="center">   ***Social Pulse: A Machine Learning Approach to Academic Performance Modeling and Analytics***
 
 
 
