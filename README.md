@@ -16,13 +16,6 @@
 <br><br>
 
 
-## 👩🏻‍🎓 [Academic Performance Analytics]()
-
-
-<br>
-
-
-A Data-Driven Study on Student Performance \& Learning Outcomes
 
 This project analyzes an anonymized dataset of student grades to uncover insights into academic performance, identify patterns, and explore the viability of predictive models for educational analytics.
 
@@ -141,20 +134,53 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 
 This repository contains a structured analysis of student academic performance.
-Despite being part of a Social Media Marketing course, the project uses the dataset to practice:
-data cleaning and preparation
-exploratory analysis and visualization
-feature engineering
-predictive modeling using Random Forest
-explainability (SHAP values)
-structured storytelling and insight communication
-The result is a complete educational analytics case study.
+
+**Social Pulse — Academic Performance Modeling & Analytics**
+A complete Machine Learning pipeline designed to explore, model, and predict student performance using anonymized academic records.
+
+Social Pulse was developed as an end-to-end educational project, covering every essential stage of a data science workflow — from data cleaning to predictive modeling and interpretable analysis.
+
+
+]<br><br>
+
+
+## **Project Scope**
+
+Although created within a Social Media Marketing course, the project uses the dataset to practice core Data Science competencies:
+
+* Data cleaning and preparation
+  Identification and correction of structural issues such as metadata noise, repeated headers, duplicated columns, and inconsistencies.
+
+* Exploratory Data Analysis (EDA)
+  Visualization of patterns, dropout trends, and key academic variables.
+
+* Feature engineering
+  Categorical encoding, derived feature creation, and dataset optimization.
+
+* Predictive modeling using Random Forest
+  Model construction, tuning, evaluation, and performance reporting.
+
+* Model explainability using SHAP values
+  Interpretation of the factors most strongly influencing dropout risk.
+
+* Structured storytelling and insight communication
+  Clear presentation of methodology, findings, and implications.
+
+
+<br><br>
 
 
 
+## **What You Will Find in This Repository**
+
+* A complete end-to-end machine learning workflow
+* Scripts for data cleaning, analysis, and modeling
+* Key tables, plots, and performance reports
+* Bilingual (PT/EN) interpretation of results
+* A structure designed to be portfolio-ready
 
 
-
+<br><br>
 
 
 
