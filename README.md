@@ -147,10 +147,15 @@ This repository contains a structured analysis of student academic performance, 
 Although initially created within a Social Media Marketing course, the project leverages the dataset to practice core Data Science and Machine Learning skills, including:
 
  [*]() Data cleaning and preparation
+
  [*]() Exploratory Data Analysis (EDA)
+ 
  [*]() Feature engineering
+ 
  [*]() Predictive modeling with Random Forest
+ 
  [*]() Model explainability using SHAP
+ 
  [*]() Insight communication and structured storytelling
 
  <br> 
@@ -169,8 +174,11 @@ Although initially created within a Social Media Marketing course, the project l
 The original dataset presented several structural issues:
 
 [*]() Metadata mixed with data rows
+
 [*]() Multiple header rows
+
 [*]() Duplicate columns
+
 [*]() Irregular formatting and inconsistent values
 
  <br> 
@@ -183,10 +191,14 @@ The original dataset presented several structural issues:
 
 ### [**2. Exploratory Data Analysis (EDA)**]()
 
-The analysis surfaced several important findings:
+### ***The analysis surfaced several important findings:***
+
+<br>
 
  [*]() High dropout and absenteeism rates
+ 
  [*]() No response from the student" was the most frequent reason for non-attendance
+ 
  [*]() Strong patterns linked to academic history and semester status
 
 
@@ -194,11 +206,15 @@ The analysis surfaced several important findings:
 
 ### [**3. Feature Engineering**]()
 
-Key transformations included:
+### ***Key transformations included:***
 
-* Encoding categorical academic attributes
-* Handling class imbalance
-* Creating derived features based on academic progression
+<br>
+
+ [*]() Encoding categorical academic attributes
+
+ [*]() Handling class imbalance
+
+ [*]() Creating derived features based on academic progression
 
 
 <br>
