@@ -9,7 +9,7 @@
 <br>
 
 
-# <p align="center">  8- [Social Buzz AI - Extension Project]() - [Social Pulse: A Machine Learning Approach to Academic Performance Modeling and Analytics]()
+# <p align="center">  8- [Social Buzz AI - Extension Project]() - ***Social Pulse: A Machine Learning Approach to Academic Performance Modeling and Analytics***
 
 
 
@@ -264,8 +264,8 @@ The original dataset presented several structural issues:
 
 > [!TIP]
 >
-> * A total of **186 students** were predicted to be at risk of dropout or academic disengagement.
->  <br>
+> * A total of **186 students** were predicted to be at risk of dropout or academic disengagement.  <br>
+> 
 >
 
 
@@ -298,8 +298,8 @@ The original dataset presented several structural issues:
 
 > [!TIP]
 >
-> * These insights help build data-driven strategies for intervention.
->  <br>
+> * These insights help build data-driven strategies for intervention.  <br>
+> 
 >
 
 
@@ -553,8 +553,8 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 
 > [!TIP]
 >
-> * Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and SHAP analysis.
->  <br>
+> * Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and SHAP analysis.  <br>
+> 
 >
 
 
@@ -651,8 +651,8 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 > [!TIP]
 >
 > 👌🏻 Contributions are welcome.<br>
->  * Please follow conventional commit practices, open issues, or submit pull requests with improvements or enhancements.
-> <br>
+>  * Please follow conventional commit practices, open issues, or submit pull requests with improvements or enhancements.  <br>
+> 
 > 
 
 
