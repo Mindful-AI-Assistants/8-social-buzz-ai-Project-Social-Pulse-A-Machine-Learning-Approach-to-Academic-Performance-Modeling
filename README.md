@@ -133,6 +133,8 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 
 # [**Social Pulse — Academic Performance Modeling & Analytics**]()
 
+<br>
+
 A complete end-to-end Machine Learning pipeline designed to explore, model, and predict student academic performance using anonymized institutional records.
 This project demonstrates a full data science workflow — from raw data cleaning to predictive modeling and interpretable insights.
 
@@ -143,8 +145,12 @@ This project demonstrates a full data science workflow — from raw data cleanin
 
 ## [**Overview**]()
 
+<br>
+
 This repository contains a structured analysis of student academic performance, developed as part of an educational project.
 Although initially created within a Social Media Marketing course, the project leverages the dataset to practice core Data Science and Machine Learning skills, including:
+
+<br>
 
  [*]() Data cleaning and preparation
 
@@ -181,7 +187,10 @@ Although initially created within a Social Media Marketing course, the project l
 
 <br>
 
-The original dataset presented several structural issues:
+### ***The original dataset presented several structural issues:***
+
+
+<br>
 
 [*]() Metadata mixed with data rows
 
