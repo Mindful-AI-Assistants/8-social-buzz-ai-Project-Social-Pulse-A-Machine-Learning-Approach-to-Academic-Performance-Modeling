@@ -230,10 +230,13 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 
 SHAP values were used to identify the most influential predictors:
 
-* Reason for non-attendance
-* Number of course failures
-* Previous-semester academic status
-* Current-semester status
+ [*]() Reason for non-attendance
+
+ [*]() Number of course failures
+
+ [*]() Previous-semester academic status
+
+ [*]() Current-semester status
 
 <br>
 
@@ -244,11 +247,15 @@ SHAP values were used to identify the most influential predictors:
 
 ## [**Key Findings**]() 
 
-* The initial dataset contained metadata issues, redundant headers, and duplicate columns, all resolved during cleaning.
-* Exploratory analysis revealed high dropout risk, with “No response from the student” as the leading cause of absence.
-* The Random Forest model demonstrated excellent predictive power with accuracy above 94%.
-* Critical dropout risk factors were identified, enabling actionable interpretation.
-* A total of 186 students were flagged as at risk.
+ [*]() The initial dataset contained metadata issues, redundant headers, and duplicate columns, all resolved during cleaning.
+
+ [*]()* Exploratory analysis revealed high dropout risk, with “No response from the student” as the leading cause of absence.
+
+ [*]() The Random Forest model demonstrated excellent predictive power with accuracy above 94%.
+
+ [*]() Critical dropout risk factors were identified, enabling actionable interpretation.
+
+ [*]() A total of 186 students were flagged as at risk.
 
 
 
@@ -259,9 +266,9 @@ SHAP values were used to identify the most influential predictors:
 
  [*]() Risk factors identified by the model can guide targeted support programs and early interventions.
 
-* The predictive model can be integrated into institutional systems such as early-alert dashboards or student-support chatbots.
+ [*]() The predictive model can be integrated into institutional systems such as early-alert dashboards or student-support chatbots.
 
-* Future improvements may include:
+ [*]() Future improvements may include:
 
 
 <br>
