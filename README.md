@@ -244,7 +244,9 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 
 ### [**5. Explainability & Insights**]() 
 
-SHAP values were used to identify the most influential predictors:
+### ***SHAP values were used to identify the most influential predictors:***
+
+<br>
 
  [*]() Reason for non-attendance
 
@@ -254,6 +256,7 @@ SHAP values were used to identify the most influential predictors:
 
  [*]() Current-semester status
 
+
 <br>
 
 > These insights help build data-driven strategies for intervention.
@@ -261,11 +264,12 @@ SHAP values were used to identify the most influential predictors:
 
 <br><br>
 
+
 ## [**Key Findings**]() 
 
  [*]() The initial dataset contained metadata issues, redundant headers, and duplicate columns, all resolved during cleaning.
 
- [*]()* Exploratory analysis revealed high dropout risk, with “No response from the student” as the leading cause of absence.
+ [*]() Exploratory analysis revealed high dropout risk, with “No response from the student” as the leading cause of absence.
 
  [*]() The Random Forest model demonstrated excellent predictive power with accuracy above 94%.
 
@@ -280,14 +284,14 @@ SHAP values were used to identify the most influential predictors:
 
 ## [**Insights & Next Steps**]() 
 
+<br>
+
+
  [*]() Risk factors identified by the model can guide targeted support programs and early interventions.
 
  [*]() The predictive model can be integrated into institutional systems such as early-alert dashboards or student-support chatbots.
 
  [*]() Future improvements may include:
-
-
-<br>
 
  [*]()  Hyperparameter optimization
 
