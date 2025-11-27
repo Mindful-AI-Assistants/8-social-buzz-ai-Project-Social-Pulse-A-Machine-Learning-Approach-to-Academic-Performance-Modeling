@@ -156,8 +156,123 @@ Although initially created within a Social Media Marketing course, the project l
 The result is a complete case study in Educational Analytics, focusing on detecting and understanding student dropout risk.
 
 
+<br><br>
+
+
+
+## **Project Pipeline**
+
+### **1. Data Cleaning & Preparation**
+
+The original dataset presented several structural issues:
+
+* Metadata mixed with data rows
+* Multiple header rows
+* Duplicate columns
+* Irregular formatting and inconsistent values
+
+All issues were systematically corrected, producing a clean and reliable dataset for analysis and modeling.
+
+
 
 <br><br>
+
+
+### **2. Exploratory Data Analysis (EDA)**
+
+The analysis surfaced several important findings:
+
+* High dropout and absenteeism rates
+* “No response from the student" was the most frequent reason for non-attendance
+* Strong patterns linked to academic history and semester status
+
+
+
+<br><br>
+
+
+
+
+### **3. Feature Engineering**
+
+Key transformations included:
+
+* Encoding categorical academic attributes
+* Handling class imbalance
+* Creating derived features based on academic progression
+
+
+
+<br><br>
+
+
+
+### **4. Predictive Modeling**
+
+A Random Forest Classifier was trained and evaluated, achieving strong performance:
+
+| Metric    | Score      |
+| --------- | ---------- |
+| Accuracy  | **94.50%** |
+| Precision | **87.00%** |
+| Recall    | **94.50%** |
+| F1-Score  | **90.60%** |
+
+A total of **186 students** were predicted to be at risk of dropout or academic disengagement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
