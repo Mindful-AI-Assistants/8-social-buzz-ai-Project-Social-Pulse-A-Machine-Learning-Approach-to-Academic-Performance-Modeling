@@ -402,75 +402,127 @@ Follow the steps below to set up the environment and reproduce the analysis.
 <br>
 
 
+### **1. Clone the repository**
+
+<br>
+
+```bash
+git clone https://github.com/your-username/social-pulse-academic-performance.git
+cd social-pulse-academic-performance
+```
 
 
+<br><br>
 
 
+### **2. Create a virtual environment (recommended)**
+
+<br><
+
+```bash
+python -m venv venv
+source venv/bin/activate  # macOS/Linux
+venv\Scripts\activate     # Windows
+```
+
+### **3. Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+<br><br>
+
+### **4. Launch Jupyter**
+
+<br>
+
+```bash
+jupyter notebook
+```
 
 
+<br><br>
+
+### **5. Open the main notebook**
+
+Navigate to:
+
+<br>
+
+```
+notebooks/academic_performance_pipeline_AI-ML.ipynb
+```
+
+Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and SHAP analysis.
 
 
+<br><br>
 
 
+## **Roadmap**
+
+Below is the planned evolution of the project, combining academic rigor with practical ML expansion.
+
+<br>
+
+### **Phase 1 — Completed**
+
+* Data cleaning and dataset restructuring
+* Exploratory Data Analysis
+* Feature engineering
+* Random Forest modeling
+* Model evaluation
+* SHAP explainability
+* Key insights and outcome report
 
 
+<br><br>
 
 
+### **Phase 2 — In Progress**
+
+* Refined notebook documentation
+* README optimization
+* Improvements in visualization design
+* Enhanced sectioning for portfolio presentation
 
 
+<br><br>
+
+### **Phase 3 — Planned**
+
+* Hyperparameter tuning with GridSearchCV or Optuna
+* Benchmarking alternative models (XGBoost, LightGBM, Logistic Regression)
+* Cross-validation and stability assessment
+* Deployment prototype:
+
+<br>
+
+   * Streamlit dashboard or
+  * FastAPI endpoint for real-time predictions
+* Automated pipeline using:
+
+  * Prefect or Airflow
+  * CI/CD integration
+* Improved explainability (partial dependency plots, feature interactions)
 
 
+<br><br>
 
+# **Contributing**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Contributions are welcome.
+Please follow conventional commit practices, open issues, or submit pull requests with improvements or enhancements.
 
 
 
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 
 
-     
+   
 
-##  [Our Crew:]()
+##  💚 [Our Crew:]()
 
 <br>
 
