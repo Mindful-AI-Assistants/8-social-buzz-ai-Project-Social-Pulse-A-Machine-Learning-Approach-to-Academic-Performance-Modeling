@@ -181,15 +181,26 @@ The original dataset presented several structural issues:
 
 [*]() Irregular formatting and inconsistent values
 
- <br> 
-
-> All issues were systematically corrected, producing a clean and reliable dataset for analysis and modeling.
 
 
-<br>
+<br><br>
+
+
+> [!TIP]
+>
+> * All issues were systematically corrected, producing a clean and reliable dataset for analysis and modeling.
+>  <br>
+>
+
+
+<br><br>
+
+
 
 
 ### [**2. Exploratory Data Analysis (EDA)**]()
+
+<br>
 
 ### ***The analysis surfaced several important findings:***
 
@@ -205,6 +216,8 @@ The original dataset presented several structural issues:
 <br>
 
 ### [**3. Feature Engineering**]()
+
+<br>
 
 ### ***Key transformations included:***
 
@@ -222,7 +235,9 @@ The original dataset presented several structural issues:
 
 ### [**4. Predictive Modeling**]()
 
-A Random Forest Classifier was trained and evaluated, achieving strong performance:
+<br>
+
+### ***A Random Forest Classifier was trained and evaluated, achieving strong performance:***
 
 <br>
 
@@ -234,15 +249,24 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 | F1-Score  | [**90.60%**]() |
 
 
-<br>
-
-> A total of **186 students** were predicted to be at risk of dropout or academic disengagement.
+<br><br>
 
 
-<br>
+> [!TIP]
+>
+> * A total of **186 students** were predicted to be at risk of dropout or academic disengagement.
+>  <br>
+>
+
+
+<br><br>
+
+
 
 
 ### [**5. Explainability & Insights**]() 
+
+<br>
 
 ### ***SHAP values were used to identify the most influential predictors:***
 
@@ -257,15 +281,26 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
  [*]() Current-semester status
 
 
-<br>
-
-> These insights help build data-driven strategies for intervention.
 
 
 <br><br>
 
 
+> [!TIP]
+>
+> * These insights help build data-driven strategies for intervention.
+>  <br>
+>
+
+
+
+<br><br>
+
+
+
 ## [**Key Findings**]() 
+
+<br>
 
  [*]() The initial dataset contained metadata issues, redundant headers, and duplicate columns, all resolved during cleaning.
 
@@ -303,6 +338,8 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 
 
 <br><br>
+
+
 
 
 ## [**Bilingual Summary Table (PT → EN)**]() 
@@ -491,7 +528,9 @@ jupyter notebook
 
 ### [**5. Open the main notebook**]() 
 
-Navigate to:
+<br>
+
+### ***Navigate to:***
 
 <br>
 
@@ -500,13 +539,17 @@ notebooks/academic_performance_pipeline_AI-ML.ipynb
 ```
 
 
-<br>
+<br><br>
 
-
-> Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and SHAP analysis.
+> [!TIP]
+>
+> * Execute the notebook step by step to reproduce data cleaning, EDA, modeling, and SHAP analysis.
+>  <br>
+>
 
 
 <br><br>
+
 
 
 ## [**Roadmap**]() 
