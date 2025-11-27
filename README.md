@@ -370,7 +370,7 @@ A Random Forest Classifier was trained and evaluated, achieving strong performan
 
 
 
-## [**Tech Stack**()
+## [**Tech Stack**]()
 
 This project was developed using a modern and reliable Data Science stack:
 
@@ -385,7 +385,7 @@ This project was developed using a modern and reliable Data Science stack:
 
 <br>
 
-### [**Data Processing & Analysis**()
+### [**Data Processing & Analysis**]()
 
  [*]()  pandas
 
@@ -426,17 +426,17 @@ This project was developed using a modern and reliable Data Science stack:
  [*]()  Reproducible data science pipeline
 
 
-<br>
+<br><br>
 
 
-## **Installation**
+## [**Installation**]() 
 
 Follow the steps below to set up the environment and reproduce the analysis.
 
 <br>
 
 
-### **1. Clone the repository**
+### [**1. Clone the repository**() 
 
 <br>
 
@@ -449,9 +449,9 @@ cd social-pulse-academic-performance
 <br><br>
 
 
-### **2. Create a virtual environment (recommended)**
+### [**2. Create a virtual environment (recommended)**() 
 
-<br><
+<br>
 
 ```bash
 python -m venv venv
