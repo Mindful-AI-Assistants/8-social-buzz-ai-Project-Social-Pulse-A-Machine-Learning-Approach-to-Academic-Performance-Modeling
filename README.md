@@ -344,6 +344,63 @@ Explore data preparation, modeling, and insights step by step
 
 
 
+## **Tech Stack**
+
+This project was developed using a modern and reliable Data Science stack:
+
+<br><br>
+
+## **Languages & Core Tools**
+
+* Python 3.10+
+* Jupyter Notebook
+
+<br><br>
+
+**Data Processing & Analysis**
+
+* pandas
+* numpy
+* scipy
+
+
+<br><br>
+
+
+**Visualization**
+
+* matplotlib
+* seaborn
+
+
+<br><br>
+
+
+**Machine Learning**
+
+* scikit-learn
+* imbalanced-learn
+* SHAP (model explainability)
+
+
+<br><br>
+
+**Project Structure & Workflow**
+
+* Modular Python scripts
+* Jupyter-based experimentation
+* Reproducible data science pipeline
+
+
+<br><br>
+
+
+## **Installation**
+
+Follow the steps below to set up the environment and reproduce the analysis.
+
+<br>
+
 
 
 
