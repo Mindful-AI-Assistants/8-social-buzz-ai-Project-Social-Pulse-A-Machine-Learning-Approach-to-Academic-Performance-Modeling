@@ -297,10 +297,34 @@ These insights help build data-driven strategies for intervention.
 <br><br>
 
 
+## [**Repository Structure**]()
+
+
+<br>
+
+```css
+
+├── data/
+│   ├── raw_dataset.csv
+│   ├── cleaned_generated_dataset.csv
+├── notebooks/
+│   ├── academic_performance_pipeline_AI-ML.ipynb
+├── src/
+│   ├── data_cleaning.py
+│   ├── modeling.py
+│   ├── eda.py
+│   ├── utils.py
+├── outputs/
+│   ├── figures/
+│   ├── shap_analysis/
+│   ├── model_metrics.json
+├── README.md
+
+```
 
 
 
-
+<br><br>
 
 
 
